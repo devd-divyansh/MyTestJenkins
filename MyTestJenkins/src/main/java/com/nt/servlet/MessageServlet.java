@@ -18,7 +18,7 @@ public class MessageServlet extends HttpServlet {
 		                
                              resp.setContentType("text/html");
 	                    
-            pw.println("<h1 style='background-color:blue;color:yellow; text-align:center'>Shri Harivansh Radha</h1>");
+            pw.println("<h1 style='background-color:blue;color:yellow; text-align:center'>Radha ju Vallabh shree Harivansh Radha</h1>");
 	           
             pw.close();
 	}
